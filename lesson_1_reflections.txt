@@ -1,0 +1,37 @@
+Lesson 1 Reflections:
+
+diff -u <filename1> <filename2>:
+-u means unified diff format, easier to read
+-diff is a native command in linux
+-output with +/- means:
+	+: means added, exists in new but not in old
+	-: means removed, existed in old but not in new
+
+cp -r <directory/folder> <newdirectory>
+
+Questions:
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It quickly isolated the locations where there was discrepancies with the files. Easier than looking for it myself
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Easy access allows for quicker modifications and changes wherever something is needed.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pro: we have control as to when to commit - ie, file size and number of versions are maintained at an optimum configuration
+Con: since we have control, it is equally easy to forget to commit (backup) when needed.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git tracks a project (which includes many files) while Google Docs tracks files individually, since you can only edit at most one file per use
+
+5. How can you use the commands git log and git diff to view the history of files?
+git log: displays the ID numbers to which you can zero in of specifics.
+git diff: allows you to compare the specifics within the two IDs
+to check, use git log --stat: this will out the total changes in one shot!
+
+6. How might using version control make you more confident to make changes that could break something?
+Knowing that I can always go back and revert my previous state of code, it would be easy to be adventurous to test new code!
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+I'm going to use it for *p*-projects.
+
+8. 
