@@ -11,4 +11,6 @@ Repository - 'uploaded' files into a logical commit
 3. How can you use the staging area to make sure you have one commit per logical change?
 Staging area lists all the files that you'll commit to the repository. In essense, it gives a checkpoint to see what you'll commit per logical change before sending it to the repo.
 
-4. 
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I'd like to try out something radically different but do not want to break my working code.
+** this is answered using the "new-reflection-branch" **
