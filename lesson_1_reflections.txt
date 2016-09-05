@@ -35,3 +35,5 @@ Knowing that I can always go back and revert my previous state of code, it would
 I'm going to use it for *p*-projects.
 
 8. 
+
+** MODIFIED here using 'new-reflection-branch' **
