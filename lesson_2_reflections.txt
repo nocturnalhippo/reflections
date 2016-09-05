@@ -8,4 +8,7 @@ Working directory - where changes are made and done
 Staging area - zone where you bundle the working files in the directory to be committed
 Repository - 'uploaded' files into a logical commit
 
-3. 
+3. How can you use the staging area to make sure you have one commit per logical change?
+Staging area lists all the files that you'll commit to the repository. In essense, it gives a checkpoint to see what you'll commit per logical change before sending it to the repo.
+
+4. 
