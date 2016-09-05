@@ -1,0 +1,11 @@
+Lesson 2 Reflections:
+
+1. What happens when you initialize a repository? Why do you need to do it?
+it creates a .git subfolder in the directory where all the tracked changes (atomic) is done.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory - where changes are made and done
+Staging area - zone where you bundle the working files in the directory to be committed
+Repository - 'uploaded' files into a logical commit
+
+3. 
