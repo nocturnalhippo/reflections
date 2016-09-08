@@ -1,2 +1,5 @@
 *** Test to be pulled from local ***
 
+When would you want to use a remote repository rather than keeping all your work local?
+industry grade servers to back all work
+collaboration of projects with the global community
